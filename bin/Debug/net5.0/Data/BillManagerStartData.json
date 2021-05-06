@@ -1,0 +1,27 @@
+{
+  "bills": [
+    {
+      "bill": "bill1",
+      "totalbill": 100.0,
+      "numberattended": 4,
+      "attended": [
+        {
+          "name": "me",
+          "partofbill": 25
+        },
+        {
+          "name": "name2",
+          "partofbill": 25
+        },
+        {
+          "name": "name5",
+          "partofbill": 25
+        },
+        {
+          "name": "name2",
+          "partofbill": 25
+        }
+      ]
+    }
+  ]
+}
